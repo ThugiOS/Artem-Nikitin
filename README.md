@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi%2C+I'm+Artem+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Hi%2C+I'm+Artem+ )](https://git.io/typing-svg)
+
  ![](https://komarev.com/ghpvc/?username=ThugiOS&color=blueviolet)
 
 ___
