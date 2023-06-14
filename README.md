@@ -2,6 +2,7 @@
 
 
  ![](https://komarev.com/ghpvc/?username=ThugiOS&color=blueviolet)
+ ![](https://www.codewars.com/users/Artem_Nik/badges/small)
 
 ___
 
