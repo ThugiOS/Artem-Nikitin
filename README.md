@@ -8,7 +8,7 @@
 
 [<img align="left" alt="Artem-Nikitin | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
 
-
+___
 
 [linkedin]: https://www.linkedin.com/in/artem-swift/
 [telegram]: http://t.me/nikitin_ios
