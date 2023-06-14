@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ThugiOS&color=blueviolet) ![](https://www.codewars.com/users/Artem_Nik/badges/small)
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="Artem-Nikitin | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
 
